@@ -1,3 +1,3 @@
 # Numpy
 
-**Numpy based Programs**
+**Numpy based Python Programs**
